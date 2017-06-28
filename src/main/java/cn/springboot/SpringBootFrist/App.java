@@ -22,5 +22,6 @@ public class App {
     {
         SpringApplication.run(App.class, args);
         System.out.println("111");
+        System.out.println("111");
     }
 }
